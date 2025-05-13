@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MockNCock...TAIL</string>
+    <string name="bois_pas_sale_alcoolique_erreur_du_json">BOIS PAS SALE ALCOOLIQUE : Erreur du JSON</string>
+    <string name="bois_pas_sale_alcoolique_ah_il_n_y_a_plus_de_gouttes">BOIS PAS SALE ALCOOLIQUE : Ah il n\'y a plus de gouttes</string>
+    <string name="chargement">Chargement ...</string>
+    <string name="veuillez_chercher_une_boisson">Veuillez chercher une boisson</string>
+    <string name="cocktail_inexistant">cocktail inexistant !</string>
+    <string name="veuillez_v_rifier_votre_connexion_internet">Veuillez verifier votre connexion internet</string>
+    <string name="hors_ligne_certaines_fonctionnalit_s_peuvent_tre_indisponibles">Cocktail inexistant !</string>
+    <string name="recherche">Recherche</string>
+    <string name="rechercher">Rechercher</string>
+    <string name="nom_de_la_boisson">Nom de la boisson</string>
+    <string name="image_de_la_boisson">Image de la boisson</string>
+</resources>
